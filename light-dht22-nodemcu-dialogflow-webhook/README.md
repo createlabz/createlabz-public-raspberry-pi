@@ -19,6 +19,7 @@ This source code was developed as a guide on developing web application for conn
 * NodeMCU V3 development board
 * Breadboard
 * Relay Module
+* Temperature and Humidity Sensor - DHT22
 * Light Bulb
 * Router (For WiFi Connection)
 
