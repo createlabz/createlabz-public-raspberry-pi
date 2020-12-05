@@ -1,5 +1,5 @@
-# ReSpeaker 2-Mics Pi HAT with Raspberry PI
-> Source code on developing web application for connecting NodeMCU to Google Assistant Dialogflow webhook.
+# Connecting NodeMCU to Google Assistant Dialogflow webhook with Raspberry PI
+> Source code on developing web application for connecting NodeMCU to Google Assistant Dialogflow webhook with Raspberry Pi.
 
 ## Table of contents
 * [General information](#general-information)
@@ -10,7 +10,7 @@
 * [Contact](#contact)
 
 ## General information
-This source code was developed as a guide on developing web application for connecting NodeMCU to Google Assistant Dialogflow webhook.
+This source code was developed as a guide on developing web application for connecting NodeMCU to Google Assistant Dialogflow webhook with Raspberry Pi.
 
 ## Hardware needed
 * Raspberry Pi 3B+ (Compatible on Raspberry Pi Zero and Zero W, Raspberry Pi B+, Raspberry Pi 2 B, Raspberry Pi 3 B, Raspberry Pi 3 B+, Raspberry Pi 3 A+)
