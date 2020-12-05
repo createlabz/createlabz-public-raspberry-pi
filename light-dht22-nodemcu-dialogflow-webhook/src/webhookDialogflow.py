@@ -44,7 +44,7 @@ def webhook():
         # Check request is not empty
         if request:
             # Print to log json data
-            print("JSON data: " + request.json())
+            print("JSON data: " + str(request.json()))
             # Get reply json data light value
             status = request.json()['Light']
             # Set reply
@@ -57,7 +57,7 @@ def webhook():
             request = httpRequest.get(nodemcu_ip + "sensor/dht22/temperature/read/celcius")
         if request:
             # Print to log json data
-            print("JSON data: " + request.json())
+            print("JSON data: " + str(request.json()))
             # Get reply json data DHT22 value
             status = request.json()['DHT22']
             # Set reply
