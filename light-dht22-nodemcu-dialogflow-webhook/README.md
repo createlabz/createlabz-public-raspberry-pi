@@ -1,5 +1,5 @@
 # Voice-Activated Light Control and DHTT22 Temperature Read using NodeMCU with Google Assistant Dialogflow, and Raspberry Pi
-> Source code on how to control a relay switch connected to a light bulb and read temperature with DHT22 sensor using NodeMCU, Google Assistant Dialogflow, Flask, ngrok, HTTP Request, together with Raspberry Pi and ReSpeaker 4-Mics Pi Hat. Of course, we're going to control the light turning on and off using voice commands 
+> Source code on how to control a relay switch connected to a light bulb and read temperature with DHT22 sensor using NodeMCU, Google Assistant Dialogflow, webhook, Flask, ngrok, HTTP Request, together with Raspberry Pi and ReSpeaker 4-Mics Pi Hat. Of course, we're going to control the light turning on and off using voice commands 
 
 ## Table of contents
 * [General information](#general-information)
@@ -10,7 +10,7 @@
 * [Contact](#contact)
 
 ## General information
-This source code was developed as a guide on how to control a relay switch connected to a light bulb and read temperature with DHT22 sensor using NodeMCU, Google Assistant Dialogflow, Flask, ngrok, HTTP Request, together with Raspberry Pi and ReSpeaker 4-Mics Pi Hat. Of course, we're going to control the light turning on and off using voice commands.
+This source code was developed as a guide on how to control a relay switch connected to a light bulb and read temperature with DHT22 sensor using NodeMCU, Google Assistant Dialogflow, webhook, Flask, ngrok, HTTP Request, together with Raspberry Pi and ReSpeaker 4-Mics Pi Hat. Of course, we're going to control the light turning on and off using voice commands.
 
 ## Hardware needed
 * Raspberry Pi 3B+ (Compatible on Raspberry Pi Zero and Zero W, Raspberry Pi B+, Raspberry Pi 2 B, Raspberry Pi 3 B, Raspberry Pi 3 B+, Raspberry Pi 3 A+)
@@ -24,7 +24,7 @@ This source code was developed as a guide on how to control a relay switch conne
 * Router (For WiFi Connection)
 
 ## Setup
-For a detailed instruction on how to control a relay switch connected to a light bulb and read temperature with DHT22 sensor using NodeMCU, Google Assistant Dialogflow, Flask, ngrok, HTTP Request, together with Raspberry Pi and ReSpeaker 4-Mics Pi Hat, head on to this [blogpost](https://store.createlabz.com/blogs/createlabz-tutorials/respeaker-2-mics-pi-hat-with-raspberry-pi) .
+For a detailed instruction on how to control a relay switch connected to a light bulb and read temperature with DHT22 sensor using NodeMCU, Google Assistant Dialogflow, webhook, Flask, ngrok, HTTP Request, together with Raspberry Pi and ReSpeaker 4-Mics Pi Hat, head on to this [blogpost](https://store.createlabz.com/blogs/createlabz-tutorials/respeaker-2-mics-pi-hat-with-raspberry-pi) .
 
 More projects or guides can be found in [KnowledgeBase and Tutorials](https://store.createlabz.com/blogs/createlabz-tutorials) blog.
 
