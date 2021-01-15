@@ -57,4 +57,5 @@ def readTemp():
     return statement("There's a problem on processing this intent")
 
 if __name__ == '__main__':
+    # Start flask-ask web app
     app.run(debug=True)
