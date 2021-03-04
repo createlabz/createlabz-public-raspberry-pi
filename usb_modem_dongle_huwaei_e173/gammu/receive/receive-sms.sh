@@ -7,7 +7,7 @@ reply="Message Send $message"
 echo "$reply" | gammu-smsd-inject TEXT "$from"
 
 # Store to logs
-log=/home/pi/createlabz-public-raspberry-pi/usb_modem_dongle_huwaei_e173/gammu/receive/
+log=/home/pi/createlabz-public-raspberry-pi/usb_modem_dongle_huwaei_e173/gammu/receive/log_sms.txt
 date >> $log
 echo $from >> $log
 echo $message >> $log
